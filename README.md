@@ -34,11 +34,11 @@ Understanding the dataset precedes exploratory data analysis, which leads to dat
 
 ### Exploratory Data Analysis
 
-We analyze the feature distributions and their relationships to the chances of admission.
+I analyze the feature distributions and their relationships to the chances of admission.
 
 ### Modeling
 
-We utilize the following machine learning models for classification:
+I utilize the following machine learning models for classification:
 
 - RandomForestClassifier
 - Decision Tree
