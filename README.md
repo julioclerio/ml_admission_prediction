@@ -72,8 +72,6 @@ The following table summarizes the performance of each model based on precision,
 
 ## Conclusion
 
-# Conclusion
-
 Through the comparison of various machine learning models to predict the likelihood of student admissions, it has been determined that the **Linear Regression** and **Decision Tree** models exhibit the highest accuracy at 93%. Both models also show a strong balance between precision and recall, indicating that they are well-tuned for both positive and negative classification. 
 
 However, the **Linear Regression** model slightly edges out with a higher ROC-AUC score of 0.8825, compared to the Decision Tree model where the ROC-AUC score was not provided. The ROC-AUC score is particularly important as it measures the trade-off between the true positive rate and false positive rate, providing insight into the model's capability to distinguish between classes.
